@@ -1,0 +1,2138 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://blog.atom.io/archive/
+Subject: Archive | Atom Blog
+Date: Wed, 9 Nov 2022 15:46:34 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--dWKBTnLHgtxTjluxnVlswvMCTGAncUv1NjwNkbYRig----"
+
+
+------MultipartBoundary--dWKBTnLHgtxTjluxnVlswvMCTGAncUv1NjwNkbYRig----
+Content-Type: text/html
+Content-ID: <frame-90A274B86CECCBBEB5311F147960DDAE@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://blog.atom.io/archive/
+
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://blog.atom.io/css/application.css">
+  <link rel="shortcut icon" href="https://blog.atom.io/favicon.ico">
+  <link type="application/atom+xml" rel="alternate" href="https://blog.atom.io/feed.xml" title="Atom Blog">
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Archive | Atom Blog</title>
+<meta name="generator" content="Jekyll v3.9.2">
+<meta property="og:title" content="Archive">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="A hackable text editor for the 21st Century">
+<meta property="og:description" content="A hackable text editor for the 21st Century">
+<link rel="canonical" href="https://blog.atom.io/archive/">
+<meta property="og:url" content="https://blog.atom.io/archive/">
+<meta property="og:site_name" content="Atom Blog">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Archive">
+<meta name="twitter:site" content="@AtomEditor">
+<meta property="article:publisher" content="https://www.facebook.com/GitHub">
+
+<!-- End Jekyll SEO tag -->
+
+  
+</head>
+<body>
+
+  <div class="footer-push">
+
+    <div class="top-bar">
+  <div class="wrapper">
+    <ul class="navigation">
+      <li><h1 title="Atom: A hackable text editor for the 21st Century"><a href="https://atom.io/" class="logo-small"></a></h1></li>
+      <li><a href="https://atom.io/packages">Packages</a></li>
+      <li><a href="https://atom.io/themes">Themes</a></li>
+      <li><a href="https://atom.io/docs">Documentation</a></li>
+      <li><a href="https://blog.atom.io/" class="is-selected">Blog</a></li>
+      <li><a href="https://discuss.atom.io/">Discuss</a></li>
+    </ul>
+
+    <div class="top-bar-right">
+      <a href="https://blog.atom.io/feed.xml" class="rss-link"><span class="octicon octicon-rss"></span> Subscribe</a>
+    </div>
+  </div>
+</div>
+
+
+    <div class="wrapper content-push"><div class="post archive">
+  <h2 class="post-name">Blog Archive</h2>
+  
+    
+      
+        <h3>2019</h3>
+        <ul>
+      
+        <li><time>Jul 23</time><a href="https://blog.atom.io/2019/07/23/atom-1-39.html">Atom 1.39</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 21</time><a href="https://blog.atom.io/2019/06/21/introducing-atom-nightly-releases.html">Introducing Atom Nightly Releases</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 11</time><a href="https://blog.atom.io/2019/06/11/atom-1-38.html">Atom 1.38</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 12</time><a href="https://blog.atom.io/2019/05/12/atom-1-37.html">Atom 1.37</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 09</time><a href="https://blog.atom.io/2019/04/09/atom-1-36.html">Atom 1.36</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 12</time><a href="https://blog.atom.io/2019/03/12/atom-1-35.html">Atom 1.35</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jan 08</time><a href="https://blog.atom.io/2019/01/08/atom-1-34.html">Atom 1.34</a></li>
+    
+  
+    
+      
+        
+        
+        
+          </ul>
+          <h3>2018</h3>
+          <ul>
+        
+      
+        <li><time>Dec 12</time><a href="https://blog.atom.io/2018/12/12/facebook-retires-nuclide-extension.html">Facebook retires Nuclide extension</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 28</time><a href="https://blog.atom.io/2018/11/28/atom-1-33.html">Atom 1.33</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 14</time><a href="https://blog.atom.io/2018/11/14/github-package-uxr.html">Usability Interviews for Atom</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 23</time><a href="https://blog.atom.io/2018/10/23/atom-1-32.html">Atom 1.32</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 09</time><a href="https://blog.atom.io/2018/10/09/automate-repetitive-tasks-with-composed-commands.html">Automate Repetitive Tasks with Composed Commands</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 02</time><a href="https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html">Running Atom on Chrome OS</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Sep 26</time><a href="https://blog.atom.io/2018/09/26/atom-1-31.html">Atom 1.31</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Aug 28</time><a href="https://blog.atom.io/2018/08/28/atom-1-30.html">Atom 1.30</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jul 31</time><a href="https://blog.atom.io/2018/07/31/atom-1-29.html">Atom 1.29</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 21</time><a href="https://blog.atom.io/2018/06/21/atom-1-28.html">Atom 1.28</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 20</time><a href="https://blog.atom.io/2018/06/20/atom-metrics.html">Coming Soon: Atom Usage Metrics Improvements</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 15</time><a href="https://blog.atom.io/2018/05/15/atom-1-27.html">Atom 1.27</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 18</time><a href="https://blog.atom.io/2018/04/18/atom-1-26.html">Atom 1.26</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 29</time><a href="https://blog.atom.io/2018/03/29/new-in-teletype-faster-setup-and-improved-multi-file-support.html">New in Teletype: Faster setup and improved multi-file support</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 15</time><a href="https://blog.atom.io/2018/03/15/atom-1-25.html">Atom 1.25</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Feb 13</time><a href="https://blog.atom.io/2018/02/13/atom-1-24.html">Atom 1.24</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jan 10</time><a href="https://blog.atom.io/2018/01/10/the-state-of-atoms-performance.html">The State of Atom's Performance</a></li>
+    
+  
+    
+      
+        
+        
+        
+          </ul>
+          <h3>2017</h3>
+          <ul>
+        
+      
+        <li><time>Dec 12</time><a href="https://blog.atom.io/2017/12/12/atom-1-23.html">Atom 1.23</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 15</time><a href="https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html">Code together in real time with Teletype for Atom</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 07</time><a href="https://blog.atom.io/2017/11/07/atom-1-22.html">Atom 1.22</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 12</time><a href="https://blog.atom.io/2017/10/12/atoms-new-buffer-implementation.html">Atom's new concurrency-friendly buffer implementation</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 03</time><a href="https://blog.atom.io/2017/10/03/atom-1-21.html">Atom 1.21</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Sep 12</time><a href="https://blog.atom.io/2017/09/12/atom-1-20.html">Atom 1.20</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Sep 12</time><a href="https://blog.atom.io/2017/09/12/announcing-atom-ide.html">Introducing Atom-IDE</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Aug 08</time><a href="https://blog.atom.io/2017/08/08/atom-1-19.html">Atom 1.19</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 22</time><a href="https://blog.atom.io/2017/06/22/a-new-approach-to-text-rendering.html">A new approach to text rendering</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 13</time><a href="https://blog.atom.io/2017/06/13/atom-1-18.html">Atom 1.18</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 23</time><a href="https://blog.atom.io/2017/05/23/docks-deep-dive.html">Docks Deep Dive</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 16</time><a href="https://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html">Git and GitHub Integration comes to Atom</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 16</time><a href="https://blog.atom.io/2017/05/16/atom-1-17.html">Atom 1.17</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 18</time><a href="https://blog.atom.io/2017/04/18/improving-startup-time.html">Improving Startup Time</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 12</time><a href="https://blog.atom.io/2017/04/12/atom-1-16.html">Atom 1.16</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 09</time><a href="https://blog.atom.io/2017/03/09/atom-1-15.html">Atom 1.15</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Feb 08</time><a href="https://blog.atom.io/2017/02/08/atom-1-14.html">Atom 1.14</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jan 18</time><a href="https://blog.atom.io/2017/01/18/atom-on-windows.html">Atom on Windows</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jan 10</time><a href="https://blog.atom.io/2017/01/10/atom-1-13.html">Atom 1.13</a></li>
+    
+  
+    
+      
+        
+        
+        
+          </ul>
+          <h3>2016</h3>
+          <ul>
+        
+      
+        <li><time>Nov 14</time><a href="https://blog.atom.io/2016/11/14/removing-shadow-dom-boundary-from-text-editor-elements.html">Removing Shadow DOM boundaries from text editor elements</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 09</time><a href="https://blog.atom.io/2016/11/09/atom-1-12.html">Atom 1.12</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 17</time><a href="https://blog.atom.io/2016/10/17/the-wonderful-world-of-keyboards.html">The Wonderful World of Keyboards</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 11</time><a href="https://blog.atom.io/2016/10/11/atom-1-11.html">Atom 1.11</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Aug 31</time><a href="https://blog.atom.io/2016/08/31/atom-1-10-and-1-11-beta.html">Atom 1.10 and 1.11 beta</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Aug 01</time><a href="https://blog.atom.io/2016/08/01/atom-1-9-and-1-10-beta.html">Atom 1.9 and 1.10 beta</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 06</time><a href="https://blog.atom.io/2016/06/06/atom-1-8-and-1-9-beta.html">Atom 1.8 and 1.9 beta</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 06</time><a href="https://blog.atom.io/2016/05/06/two-years-open-source.html">2 Years Open Source</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 19</time><a href="https://blog.atom.io/2016/04/19/managing-the-deluge-of-atom-issues.html">Managing the Deluge of Atom Issues</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 12</time><a href="https://blog.atom.io/2016/04/12/atom-1-7-and-1-8-beta.html">Atom 1.7 and 1.8 beta</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 28</time><a href="https://blog.atom.io/2016/03/28/atom-reaches-1m-users.html">Atom Reaches One Million Active Users</a></li>
+    
+  
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 24</time><a href="https://blog.atom.io/2016/03/24/the-new-and-improved-flight-manual.html">The New and Improved Flight Manual</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 17</time><a href="https://blog.atom.io/2016/03/17/atom-1-6-and-1-7-beta.html">Atom 1.6 and 1.7 beta</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Feb 03</time><a href="https://blog.atom.io/2016/02/03/introducing-block-decorations.html">Introducing Block Decorations</a></li>
+    
+  
+    
+  
+    
+      
+        
+        
+        
+          </ul>
+          <h3>2015</h3>
+          <ul>
+        
+      
+        <li><time>Dec 11</time><a href="https://blog.atom.io/2015/12/11/atom-1-3.html">Atom 1.3</a></li>
+    
+  
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 16</time><a href="https://blog.atom.io/2015/11/16/atom-1-contributor-patches.html">Atom 1.0 Contributor Patches</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 12</time><a href="https://blog.atom.io/2015/11/12/atom-1-2.html">Atom 1.2</a></li>
+    
+  
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 03</time><a href="https://blog.atom.io/2015/11/03/mulesoft-releases-api-workbench-built-on-atom.html">MuleSoft's New API Workbench is built on Atom</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 29</time><a href="https://blog.atom.io/2015/10/29/atom-1-1-is-out.html">Atom 1.1 is out</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 21</time><a href="https://blog.atom.io/2015/10/21/introducing-the-atom-beta-channel.html">Introducing the Atom Beta Channel</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 16</time><a href="https://blog.atom.io/2015/10/16/making-your-first-contribution.html">Making your first Atom contribution</a></li>
+    
+  
+    
+  
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Aug 06</time><a href="https://blog.atom.io/2015/08/06/new-package-roundup.html">New Package Roundup</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jul 20</time><a href="https://blog.atom.io/2015/07/20/code-of-conduct.html">Adopting the Open Code of Conduct</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 25</time><a href="https://blog.atom.io/2015/06/25/atom-1-0.html">Atom 1.0</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 24</time><a href="https://blog.atom.io/2015/06/24/rendering-improvements.html">Rendering Improvements</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 16</time><a href="https://blog.atom.io/2015/06/16/optimizing-an-important-atom-primitive.html">Optimizing An Important Atom Primitive</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 09</time><a href="https://blog.atom.io/2015/06/09/join-us-at-oscon.html">Join us at OSCON on July 20</a></li>
+    
+  
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 04</time><a href="https://blog.atom.io/2015/06/04/deprecated-apis-have-been-removed.html">Deprecated APIs Have Been Removed</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 21</time><a href="https://blog.atom.io/2015/05/21/new-package-roundup.html">New Package Roundup</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 19</time><a href="https://blog.atom.io/2015/05/19/the-atom-shirt.html">Atom T-Shirt &amp; Coasters</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 15</time><a href="https://blog.atom.io/2015/05/15/new-autocomplete.html">Autocomplete just got a whole lot better</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 06</time><a href="https://blog.atom.io/2015/05/06/one-year-open-source.html">1 Year Open Source</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 01</time><a href="https://blog.atom.io/2015/05/01/removing-deprecated-apis.html">Removing Deprecated APIs</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 29</time><a href="https://blog.atom.io/2015/04/29/codeconf-cfp.html">Submit an Atom session for CodeConf</a></li>
+    
+  
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 21</time><a href="https://blog.atom.io/2015/04/21/atom-is-faster-resizable-saves-app-state.html">Faster, Better, Stronger, and Resizable</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 15</time><a href="https://blog.atom.io/2015/04/15/multi-folder-projects.html">Multi-Folder Projects</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 07</time><a href="https://blog.atom.io/2015/04/07/project-updates.html">Atom Progress Update</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 30</time><a href="https://blog.atom.io/2015/03/30/keywords-on-atom-io.html">Keywords on Atom.io</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 25</time><a href="https://blog.atom.io/2015/03/25/new-services-API.html">New Services API</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 11</time><a href="https://blog.atom.io/2015/03/11/atom-docs.html">The Atom Flight Manual</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Feb 23</time><a href="https://blog.atom.io/2015/02/23/new-package-roundup.html">New Package Roundup</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Feb 18</time><a href="https://blog.atom.io/2015/02/18/one-themes.html">New themes</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Feb 04</time><a href="https://blog.atom.io/2015/02/04/built-in-6to5.html">Built-in 6to5 support</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jan 21</time><a href="https://blog.atom.io/2015/01/21/new-in-atom-shell.html">What's new in Atom Shell 0.20.x</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jan 15</time><a href="https://blog.atom.io/2015/01/15/announcing-the-atom-1-api.html">Announcing The Atom 1.0 API</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jan 07</time><a href="https://blog.atom.io/2015/01/07/settings-view-improvements.html">Settings View Improvements</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jan 05</time><a href="https://blog.atom.io/2015/01/05/enable-shadow-dom.html">The Shadow DOM Is Now Enabled By Default</a></li>
+    
+  
+    
+      
+        
+        
+        
+          </ul>
+          <h3>2014</h3>
+          <ul>
+        
+      
+        <li><time>Dec 10</time><a href="https://blog.atom.io/2014/12/10/a-windows-installer-and-updater.html">Windows Installer and Auto Updater</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 18</time><a href="https://blog.atom.io/2014/11/18/avoiding-style-pollution-with-the-shadow-dom.html">Avoiding Style Pollution With The Shadow DOM</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Nov 05</time><a href="https://blog.atom.io/2014/11/05/linux-packages.html">Linux Packages on Atom.io</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 31</time><a href="https://blog.atom.io/2014/10/31/language-scoped-config.html">Language Specific Configuration Settings</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 23</time><a href="https://blog.atom.io/2014/10/23/public-roadmap.html">Atom Roadmap</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Oct 02</time><a href="https://blog.atom.io/2014/10/02/config-api-has-schema.html">Config API Improvements</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Sep 17</time><a href="https://blog.atom.io/2014/09/17/new-package-roundup.html">New Package Roundup</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Sep 16</time><a href="https://blog.atom.io/2014/09/16/new-event-subscription-api.html">A New Event Subscription API</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Aug 13</time><a href="https://blog.atom.io/2014/08/13/chrome-and-node-upgrade.html">Chrome 36 and Node 0.11.13</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Aug 08</time><a href="https://blog.atom.io/2014/08/08/new-package-roundup.html">New Package Roundup</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jul 28</time><a href="https://blog.atom.io/2014/07/28/windows-ci-for-your-packages.html">Windows CI For Your Packages</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jul 24</time><a href="https://blog.atom.io/2014/07/24/decorations.html">Decorations</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jul 22</time><a href="https://blog.atom.io/2014/07/22/default-to-react-editor.html">React Editor Enabled by Default</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jul 09</time><a href="https://blog.atom.io/2014/07/09/hello-windows.html">Hello Windows</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jul 02</time><a href="https://blog.atom.io/2014/07/02/moving-atom-to-react.html">Moving Atom To React</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 23</time><a href="https://blog.atom.io/2014/06/23/new-package-roundup.html">New Package Roundup</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Jun 09</time><a href="https://blog.atom.io/2014/06/09/stars.html">Stars</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>May 06</time><a href="https://blog.atom.io/2014/05/06/atom-is-now-open-source.html">Atom Is Now Open Source</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Apr 25</time><a href="https://blog.atom.io/2014/04/25/ci-for-your-packages.html">CI For Your Packages</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 31</time><a href="https://blog.atom.io/2014/03/31/new-keymap.html">Atom's New Keymap Module</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 26</time><a href="https://blog.atom.io/2014/03/26/introducing-highlights.html">Introducing Highlights</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 13</time><a href="https://blog.atom.io/2014/03/13/git-integration.html">Git Integration</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 10</time><a href="https://blog.atom.io/2014/03/10/new-package-roundup.html">New Package Roundup</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 04</time><a href="https://blog.atom.io/2014/03/04/this-week-in-atom-packages.html">This Week in Atom Packages</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Mar 03</time><a href="https://blog.atom.io/2014/03/03/styling-hyperlinks.html">Styling Hyperlinks</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Feb 26</time><a href="https://blog.atom.io/2014/02/26/the-nucleus-of-atom.html">The Nucleus of Atom</a></li>
+    
+  
+    
+      
+        
+        
+        
+      
+        <li><time>Feb 26</time><a href="https://blog.atom.io/2014/02/26/introducing-atom.html">Introducing Atom</a></li>
+    
+  
+  </ul>
+</div>
+</div>
+
+    <div class="footer-pad"></div>
+  </div>
+
+  <footer>
+  <div class="footer">
+    <div class="wrapper">
+      <ul class="footer-left">
+        <li><a href="https://github.com/site/terms">Terms of Use</a></li>
+        <li><a href="https://atom.io/releases">Releases</a></li>
+        <li><a href="https://atom.io/faq">FAQ</a></li>
+        <li><a href="https://atom.io/contact">Contact</a></li>
+      </ul>
+
+      <div class="footer-right">
+        <a href="https://github.com/"><span class="octicon octicon-code"></span> with <span class="octicon octicon-heart"></span> by <span class="octicon octicon-logo-github"></span></a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>
+------MultipartBoundary--dWKBTnLHgtxTjluxnVlswvMCTGAncUv1NjwNkbYRig----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://blog.atom.io/css/application.css
+
+@charset "utf-8";
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-size: 100%; vertical-align: baseline; }
+
+html { line-height: 1; }
+
+em { font-style: italic; }
+
+ol, ul { list-style: none; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+caption, th, td { text-align: left; font-weight: normal; vertical-align: middle; }
+
+q, blockquote { quotes: none; }
+
+q::before, q::after, blockquote::before, blockquote::after { content: none; }
+
+a img { border: none; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary { display: block; }
+
+* { box-sizing: border-box; }
+
+html { height: 100%; }
+
+body { height: 100%; margin: 0px; color: rgb(102, 89, 92); font: 16px / 1.7 "Helvetica Neue", Helvetica, arial, freesans, clean, sans-serif; }
+
+.wrapper { max-width: 860px; margin: 0px auto; padding-left: 40px; padding-right: 40px; }
+
+.content-push { margin-top: 60px; }
+
+.footer-push { min-height: 100%; margin-bottom: -55px; height: auto !important; }
+
+.footer-pad { height: 95px; }
+
+.top-bar { text-align: left; padding: 5px 0px; background-color: rgb(88, 75, 79); color: rgb(239, 234, 225); font-size: 14px; height: 43px; }
+
+.top-bar h1 { font-size: inherit; display: inline-block; line-height: 0; margin: 0px; }
+
+.top-bar a { color: rgb(239, 234, 225); }
+
+.top-bar a:hover { color: rgb(129, 192, 139); text-decoration: none; }
+
+.top-bar a.is-selected { color: rgb(162, 159, 153); }
+
+.top-bar .navigation { display: inline-block; }
+
+.top-bar .top-bar-right { float: right; line-height: 33px; }
+
+.top-bar .top-bar-right .octicon { position: relative; top: 1px; padding: 5px; }
+
+.top-bar .top-bar-right .octicon.octicon-rss { color: rgb(255, 118, 27); }
+
+.top-bar .top-bar-right .tooltipped { padding-bottom: 2px; margin-left: 10px; }
+
+.top-bar .top-bar-right .gravatar { height: 22px; width: 22px; vertical-align: -7px; margin-right: 5px; }
+
+.top-bar .minibutton { margin: 4px 0px; }
+
+.top-bar > .wrapper { overflow: initial; }
+
+.navigation .mini-banner { position: relative; z-index: 1; width: 90px; height: 90px; margin-top: -28px; background: url("../img/mini-banner-1-0.svg") center center no-repeat; }
+
+.navigation .mini-banner:hover { transform: translateY(-1px); }
+
+.navigation .mini-banner:active { transform: scale(0.9); }
+
+.logo-small { width: 114px; height: 24px; margin: 4px 8px 4px 0px; background-image: url("../img/logo-small.png"); }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+  .logo-small { background-image: url("../img/logo-small@2x.png"); background-size: 114px 24px; }
+}
+
+a { color: rgb(64, 169, 119); text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6 { color: rgb(102, 89, 92); }
+
+h1.center, h2.center, h3.center, h4.center, h5.center, h6.center { text-align: center; }
+
+hr { border: 0px; height: 1px; background-color: rgb(221, 221, 221); display: block; width: 100%; clear: both; }
+
+.header { background-color: rgb(239, 234, 225); width: 100%; text-align: center; }
+
+.header .wrapper { overflow: hidden; padding: 50px 0px 40px; line-height: 0; }
+
+.header h1 { margin: 0px; display: inline-block; }
+
+.header .github-log-in-button { float: right; margin-top: 18px; margin-left: 20px; padding: 5px 10px; font-size: 14px; }
+
+.navigation { list-style-type: none; margin: 0px; padding: 0px 0px 17px; }
+
+.navigation li { display: inline-block; padding-right: 5px; height: 33px; vertical-align: top; }
+
+.navigation li:last-child { padding-right: 0px; }
+
+.navigation a { padding: 5px; display: inline-block; transition: color 0.2s ease 0s; }
+
+.navigation a:hover { text-decoration: none; }
+
+.footer { background-color: rgb(239, 234, 225); height: 55px; padding: 15px; }
+
+.footer a { color: rgb(102, 89, 92); }
+
+.footer a:hover { text-decoration: none; }
+
+.footer span { color: rgb(102, 89, 92); }
+
+.footer .footer-right { float: right; }
+
+.footer .footer-left { float: left; margin: 0px; padding: 0px; }
+
+.footer .footer-left li { display: inline-block; list-style-type: none; margin-right: 15px; }
+
+.footer .octicon { position: relative; font-size: 20px; top: 1px; }
+
+.footer .octicon-logo-github { top: 2px; }
+
+.tabs { display: inline-block; }
+
+.tabs ul { display: table; padding: 0px; margin: 0px; }
+
+.tabs li { display: table-cell; list-style-type: none; }
+
+.tabs .button { width: 100%; padding: 10px 16px; font-size: 18px; }
+
+.columns { display: table; width: 100%; }
+
+.columns .column { display: table-cell; padding-left: 20px; padding-right: 20px; vertical-align: top; }
+
+.columns .column:first-child { padding-left: 0px; padding-right: 20px; }
+
+.columns .column:last-child { padding-left: 20px; padding-right: 0px; }
+
+.columns .left, .columns .right { width: 50%; }
+
+.columns .sidebar { width: 300px; }
+
+.octicon:hover { text-decoration: none; }
+
+.pagination em { font-style: italic; }
+
+.pagination-archive { float: right; }
+
+.twitter-share-button { float: right; }
+
+.markdown strong { font-weight: bold; }
+
+.posts-list li { padding: 15px 0px 20px; border-top: 1px solid rgb(229, 229, 229); }
+
+.posts-list li:first-child { border-top: 0px; padding-top: 0px; }
+
+.post { margin-bottom: 60px; }
+
+.post .post-name { font-size: 42px; margin: 0px 0px 5px; line-height: 1; font-weight: 300; }
+
+.post .post-name a { color: inherit; }
+
+.post .who-when { color: rgb(153, 153, 153); margin-bottom: 20px; font-size: 14px; }
+
+.post .author-link { padding-left: 10px; color: rgb(158, 155, 149); }
+
+.post .author-link .avatar { position: relative; top: 4px; border-radius: 2px; height: 18px; width: 18px; }
+
+.post .markdown { margin: 10px 0px 40px; }
+
+.feedback { position: relative; margin-top: 40px; padding: 5px 10px; border-radius: 5px; background-color: rgb(250, 246, 236); font-size: 14px; }
+
+.feedback p:first-child { padding-bottom: 5px; margin-bottom: 5px; border-bottom: 1px solid rgb(239, 234, 225); }
+
+.feedback .twitter-handle { font-weight: bold; }
+
+.archive .post-name { margin-bottom: 0.5em; }
+
+.archive h3, .archive time { width: 100px; text-align: right; }
+
+.archive h3 { margin: 1em 0px 0.2em; font-size: 2em; font-weight: bold; }
+
+.archive time { display: inline-block; margin-right: 2em; }
+
+.markdown { font-size: 15px; line-height: 1.7; overflow: hidden; overflow-wrap: break-word; }
+
+.markdown > :first-child { margin-top: 0px !important; }
+
+.markdown > :last-child { margin-bottom: 0px !important; }
+
+.markdown a.anchor { display: block; padding-right: 6px; padding-left: 30px; margin-left: -30px; cursor: pointer; position: absolute; top: 0px; left: 0px; bottom: 0px; }
+
+.markdown a.anchor:focus { outline: none; }
+
+.markdown h1, .markdown h2, .markdown h3, .markdown h4, .markdown h5, .markdown h6 { margin: 1em 0px 15px; padding: 0px; font-weight: bold; line-height: 1.7; cursor: text; position: relative; }
+
+.markdown h1 .octicon-link, .markdown h2 .octicon-link, .markdown h3 .octicon-link, .markdown h4 .octicon-link, .markdown h5 .octicon-link, .markdown h6 .octicon-link { display: none; color: rgb(0, 0, 0); }
+
+.markdown h1:hover a.anchor, .markdown h2:hover a.anchor, .markdown h3:hover a.anchor, .markdown h4:hover a.anchor, .markdown h5:hover a.anchor, .markdown h6:hover a.anchor { text-decoration: none; line-height: 1; padding-left: 0px; margin-left: -22px; top: 15%; }
+
+.markdown h1:hover a.anchor .octicon-link, .markdown h2:hover a.anchor .octicon-link, .markdown h3:hover a.anchor .octicon-link, .markdown h4:hover a.anchor .octicon-link, .markdown h5:hover a.anchor .octicon-link, .markdown h6:hover a.anchor .octicon-link { display: inline-block; }
+
+.markdown h1 tt, .markdown h1 code, .markdown h2 tt, .markdown h2 code, .markdown h3 tt, .markdown h3 code, .markdown h4 tt, .markdown h4 code, .markdown h5 tt, .markdown h5 code, .markdown h6 tt, .markdown h6 code { font-size: inherit; }
+
+.markdown h1 { font-size: 2.5em; border-bottom: 1px solid rgb(221, 221, 221); }
+
+.markdown h2 { font-size: 2em; border-bottom: 1px solid rgb(238, 238, 238); }
+
+.markdown h3 { font-size: 1.5em; }
+
+.markdown h4 { font-size: 1.2em; }
+
+.markdown h5 { font-size: 1em; }
+
+.markdown h6 { color: rgb(119, 119, 119); font-size: 1em; }
+
+.markdown p, .markdown blockquote, .markdown ul, .markdown ol, .markdown dl, .markdown table, .markdown pre { margin: 15px 0px; }
+
+.markdown hr { margin: 15px 0px; }
+
+.markdown ul, .markdown ol { padding-left: 30px; list-style: initial; }
+
+.markdown ul.no-list, .markdown ol.no-list { list-style-type: none; padding: 0px; }
+
+.markdown ul ul, .markdown ul ol, .markdown ol ol, .markdown ol ul { margin-top: 0px; margin-bottom: 0px; }
+
+.markdown dl { padding: 0px; }
+
+.markdown dl dt { font-size: 14px; font-weight: bold; font-style: italic; padding: 0px; margin-top: 15px; }
+
+.markdown dl dd { margin-bottom: 15px; padding: 0px 15px; }
+
+.markdown blockquote { border-left: 4px solid rgb(221, 221, 221); padding: 0px 15px; color: rgb(119, 119, 119); }
+
+.markdown blockquote > :first-child { margin-top: 0px; }
+
+.markdown blockquote > :last-child { margin-bottom: 0px; }
+
+.markdown table { width: 100%; overflow: auto; display: block; }
+
+.markdown table th { font-weight: bold; }
+
+.markdown table th, .markdown table td { border: 1px solid rgb(221, 221, 221); padding: 6px 13px; }
+
+.markdown table tr { border-top: 1px solid rgb(204, 204, 204); background-color: rgb(255, 255, 255); }
+
+.markdown table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
+
+.markdown img { max-width: 100%; }
+
+.markdown code, .markdown tt { margin: 0px 2px; padding: 0px 5px; border: 1px solid rgb(221, 221, 221); background-color: rgb(248, 248, 248); border-radius: 3px; }
+
+.markdown code { white-space: nowrap; font-family: monospace; }
+
+.markdown pre > code { margin: 0px; padding: 0px; white-space: pre; border: none; background: transparent; }
+
+.markdown .highlight pre, .markdown pre { color: rgb(197, 200, 198); background-color: rgb(71, 61, 65); font-size: 13px; line-height: 19px; overflow: auto; padding: 6px 10px; border-radius: 3px; }
+
+.markdown pre { overflow-wrap: normal; }
+
+.markdown pre code, .markdown pre tt { margin: 0px; padding: 0px; background-color: transparent; border: none; overflow-wrap: normal; }
+
+.markdown .line .comment { color: rgb(124, 124, 124); }
+
+.markdown .line .entity { color: rgb(255, 210, 167); }
+
+.markdown .line .entity.name.type { text-decoration: underline; color: rgb(255, 255, 182); }
+
+.markdown .line .entity.other.inherited-class { color: rgb(155, 92, 46); }
+
+.markdown .line .keyword { color: rgb(150, 203, 254); }
+
+.markdown .line .keyword.control { color: rgb(150, 203, 254); }
+
+.markdown .line .keyword.operator { color: rgb(237, 237, 237); }
+
+.markdown .line .storage { color: rgb(207, 203, 144); }
+
+.markdown .line .storage.modifier { color: rgb(150, 203, 254); }
+
+.markdown .line .constant { color: rgb(153, 204, 153); }
+
+.markdown .line .constant.numeric { color: rgb(255, 115, 253); }
+
+.markdown .line .variable { color: rgb(198, 197, 254); }
+
+.markdown .line .invalid.deprecated { text-decoration: underline; color: rgb(253, 95, 241); }
+
+.markdown .line .invalid.illegal { color: rgb(253, 95, 241); background-color: rgba(86, 45, 86, 0.75); }
+
+.markdown .line .source .string .source, .markdown .line .source .string .meta.embedded.line { color: rgb(237, 237, 237); }
+
+.markdown .line .source .string .punctuation.section.embedded { color: rgb(0, 160, 160); }
+
+.markdown .line .source .string .punctuation.section.embedded .source { color: rgb(0, 160, 160); }
+
+.markdown .line .string { color: rgb(168, 255, 96); }
+
+.markdown .line .string .constant { color: rgb(0, 160, 160); }
+
+.markdown .line .string.regexp { color: rgb(233, 192, 98); }
+
+.markdown .line .string.regexp .constant.character.escape, .markdown .line .string.regexp .source.ruby.embedded, .markdown .line .string.regexp .string.regexp.arbitrary-repitition { color: rgb(255, 128, 0); }
+
+.markdown .line .string.regexp.group { color: rgb(198, 162, 79); background-color: rgba(255, 255, 255, 0.06); }
+
+.markdown .line .string.regexp.character-class { color: rgb(177, 138, 61); }
+
+.markdown .line .string .variable { color: rgb(138, 154, 149); }
+
+.markdown .line .support { color: rgb(255, 255, 182); }
+
+.markdown .line .support.function { color: rgb(218, 208, 133); }
+
+.markdown .line .support.constant { color: rgb(255, 210, 167); }
+
+.markdown .line .support.type.property-name.css { color: rgb(237, 237, 237); }
+
+.markdown .line .source .entity.name.tag, .markdown .line .source .entity.other.attribute-name, .markdown .line .meta.tag.inline, .markdown .line .meta.tag.inline .entity { color: rgb(150, 203, 254); }
+
+.markdown .line .entity.other.attribute-name { color: rgb(255, 215, 177); }
+
+.markdown .line .entity.name.tag.namespace, .markdown .line .entity.other.attribute-name.namespace { color: rgb(225, 137, 100); }
+
+.markdown .line .meta.preprocessor.c { color: rgb(137, 150, 168); }
+
+.markdown .line .meta.preprocessor.c .keyword { color: rgb(175, 196, 219); }
+
+.markdown .line .meta.cast { color: rgb(103, 103, 103); }
+
+.markdown .line .meta.sgml.html .meta.doctype, .markdown .line .meta.sgml.html .meta.doctype .entity, .markdown .line .meta.sgml.html .meta.doctype .string, .markdown .line .meta.xml-processing, .markdown .line .meta.xml-processing .entity, .markdown .line .meta.xml-processing .string { color: rgb(73, 73, 73); }
+
+.markdown .line .meta.tag, .markdown .line .meta.tag .entity { color: rgb(150, 203, 254); }
+
+.markdown .line .meta.selector.css .entity.name.tag { text-decoration: underline; color: rgb(150, 203, 254); }
+
+.markdown .line .meta.selector.css .entity.other.attribute-name.tag.pseudo-class { color: rgb(143, 157, 106); }
+
+.markdown .line .meta.selector.css .entity.other.attribute-name.id { color: rgb(139, 152, 171); }
+
+.markdown .line .meta.selector.css .entity.other.attribute-name.class { color: rgb(98, 177, 254); }
+
+.markdown .line .meta.property-group .support.constant.property-value.css, .markdown .line .meta.property-value .support.constant.property-value.css { color: rgb(249, 238, 152); }
+
+.markdown .line .meta.preprocessor.at-rule .keyword.control.at-rule { color: rgb(134, 147, 165); }
+
+.markdown .line .meta.property-value .support.constant.named-color.css, .markdown .line .meta.property-value .constant { color: rgb(135, 195, 138); }
+
+.markdown .line .meta.constructor.argument.css { color: rgb(143, 157, 106); }
+
+.markdown .line .meta.diff, .markdown .line .meta.diff.header { color: rgb(248, 248, 248); background-color: rgb(14, 34, 49); }
+
+.markdown .line .meta.separator { color: rgb(96, 166, 51); background-color: rgb(36, 36, 36); }
+
+.markdown .line .meta.line.entry.logfile, .markdown .line .meta.line.exit.logfile { background-color: rgba(238, 238, 238, 0.16); }
+
+.markdown .line .meta.line.error.logfile { background-color: rgb(117, 16, 18); }
+
+.highlight .hll { background-color: rgb(55, 59, 65); }
+
+.highlight .c { color: rgb(150, 152, 150); }
+
+.highlight .err { color: rgb(204, 102, 102); }
+
+.highlight .k { color: rgb(178, 148, 187); }
+
+.highlight .l { color: rgb(222, 147, 95); }
+
+.highlight .n { color: rgb(197, 200, 198); }
+
+.highlight .o { color: rgb(138, 190, 183); }
+
+.highlight .p { color: rgb(197, 200, 198); }
+
+.highlight .cm { color: rgb(150, 152, 150); }
+
+.highlight .cp { color: rgb(150, 152, 150); }
+
+.highlight .c1 { color: rgb(150, 152, 150); }
+
+.highlight .cs { color: rgb(150, 152, 150); }
+
+.highlight .gd { color: rgb(204, 102, 102); }
+
+.highlight .ge { font-style: italic; }
+
+.highlight .gh { color: rgb(197, 200, 198); font-weight: bold; }
+
+.highlight .gi { color: rgb(181, 189, 104); }
+
+.highlight .gp { color: rgb(150, 152, 150); font-weight: bold; }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: rgb(138, 190, 183); font-weight: bold; }
+
+.highlight .kc { color: rgb(178, 148, 187); }
+
+.highlight .kd { color: rgb(178, 148, 187); }
+
+.highlight .kn { color: rgb(138, 190, 183); }
+
+.highlight .kp { color: rgb(178, 148, 187); }
+
+.highlight .kr { color: rgb(178, 148, 187); }
+
+.highlight .kt { color: rgb(240, 198, 116); }
+
+.highlight .ld { color: rgb(181, 189, 104); }
+
+.highlight .m { color: rgb(222, 147, 95); }
+
+.highlight .s { color: rgb(181, 189, 104); }
+
+.highlight .na { color: rgb(129, 162, 190); }
+
+.highlight .nb { color: rgb(197, 200, 198); }
+
+.highlight .nc { color: rgb(240, 198, 116); }
+
+.highlight .no { color: rgb(204, 102, 102); }
+
+.highlight .nd { color: rgb(138, 190, 183); }
+
+.highlight .ni { color: rgb(197, 200, 198); }
+
+.highlight .ne { color: rgb(204, 102, 102); }
+
+.highlight .nf { color: rgb(129, 162, 190); }
+
+.highlight .nl { color: rgb(197, 200, 198); }
+
+.highlight .nn { color: rgb(240, 198, 116); }
+
+.highlight .nx { color: rgb(129, 162, 190); }
+
+.highlight .py { color: rgb(197, 200, 198); }
+
+.highlight .nt { color: rgb(138, 190, 183); }
+
+.highlight .nv { color: rgb(204, 102, 102); }
+
+.highlight .ow { color: rgb(138, 190, 183); }
+
+.highlight .w { color: rgb(197, 200, 198); }
+
+.highlight .mf { color: rgb(222, 147, 95); }
+
+.highlight .mh { color: rgb(222, 147, 95); }
+
+.highlight .mi { color: rgb(222, 147, 95); }
+
+.highlight .mo { color: rgb(222, 147, 95); }
+
+.highlight .sb { color: rgb(181, 189, 104); }
+
+.highlight .sc { color: rgb(197, 200, 198); }
+
+.highlight .sd { color: rgb(150, 152, 150); }
+
+.highlight .s2 { color: rgb(181, 189, 104); }
+
+.highlight .se { color: rgb(222, 147, 95); }
+
+.highlight .sh { color: rgb(181, 189, 104); }
+
+.highlight .si { color: rgb(222, 147, 95); }
+
+.highlight .sx { color: rgb(181, 189, 104); }
+
+.highlight .sr { color: rgb(181, 189, 104); }
+
+.highlight .s1 { color: rgb(181, 189, 104); }
+
+.highlight .ss { color: rgb(181, 189, 104); }
+
+.highlight .bp { color: rgb(197, 200, 198); }
+
+.highlight .vc { color: rgb(204, 102, 102); }
+
+.highlight .vg { color: rgb(204, 102, 102); }
+
+.highlight .vi { color: rgb(204, 102, 102); }
+
+.highlight .il { color: rgb(222, 147, 95); }
+
+@font-face { font-family: octicons; src: url("../font/octicons.eot#iefix") format("embedded-opentype"), url("../font/octicons.woff") format("woff"), url("../font/octicons.ttf") format("truetype"), url("../font/octicons.svg#octicons") format("svg"); font-weight: normal; font-style: normal; }
+
+.octicon { font: 16px / 1 octicons; display: inline-block; text-decoration: none; -webkit-font-smoothing: antialiased; }
+
+.mega-octicon { font: 32px / 1 octicons; display: inline-block; text-decoration: none; -webkit-font-smoothing: antialiased; }
+
+.octicon-alert::before { content: "ï€­"; }
+
+.octicon-alignment-align::before { content: "ï‚Š"; }
+
+.octicon-alignment-aligned-to::before { content: "ï‚"; }
+
+.octicon-alignment-unalign::before { content: "ï‚‹"; }
+
+.octicon-arrow-down::before { content: "ï€¿"; }
+
+.octicon-arrow-left::before { content: "ï€"; }
+
+.octicon-arrow-right::before { content: "ï€¾"; }
+
+.octicon-arrow-small-down::before { content: "ï‚ "; }
+
+.octicon-arrow-small-left::before { content: "ï‚¡"; }
+
+.octicon-arrow-small-right::before { content: "ï±"; }
+
+.octicon-arrow-small-up::before { content: "ï‚Ÿ"; }
+
+.octicon-arrow-up::before { content: "ï€½"; }
+
+.octicon-beer::before { content: "ï©"; }
+
+.octicon-book::before { content: "ï€‡"; }
+
+.octicon-bookmark::before { content: "ï»"; }
+
+.octicon-briefcase::before { content: "ïƒ“"; }
+
+.octicon-broadcast::before { content: "ïˆ"; }
+
+.octicon-browser::before { content: "ïƒ…"; }
+
+.octicon-bug::before { content: "ï‚‘"; }
+
+.octicon-calendar::before { content: "ï¨"; }
+
+.octicon-check::before { content: "ï€º"; }
+
+.octicon-checklist::before { content: "ï¶"; }
+
+.octicon-chevron-down::before { content: "ï‚£"; }
+
+.octicon-chevron-left::before { content: "ï‚¤"; }
+
+.octicon-chevron-right::before { content: "ï¸"; }
+
+.octicon-chevron-up::before { content: "ï‚¢"; }
+
+.octicon-circle-slash::before { content: "ï‚„"; }
+
+.octicon-clippy::before { content: "ï€µ"; }
+
+.octicon-clock::before { content: "ï†"; }
+
+.octicon-cloud-download::before { content: "ï€‹"; }
+
+.octicon-cloud-upload::before { content: "ï€Œ"; }
+
+.octicon-code::before { content: "ïŸ"; }
+
+.octicon-color-mode::before { content: "ï¥"; }
+
+.octicon-comment::before { content: "ï€«"; }
+
+.octicon-comment-add::before { content: "ï¯"; }
+
+.octicon-comment-discussion::before { content: "ï"; }
+
+.octicon-credit-card::before { content: "ï…"; }
+
+.octicon-dash::before { content: "ïƒŠ"; }
+
+.octicon-dashboard::before { content: "ï½"; }
+
+.octicon-database::before { content: "ï‚–"; }
+
+.octicon-device-camera::before { content: "ï–"; }
+
+.octicon-device-camera-video::before { content: "ï—"; }
+
+.octicon-device-desktop::before { content: "ï‰¼"; }
+
+.octicon-device-mobile::before { content: "ï€¸"; }
+
+.octicon-diff::before { content: "ï"; }
+
+.octicon-diff-added::before { content: "ï«"; }
+
+.octicon-diff-ignored::before { content: "ï‚™"; }
+
+.octicon-diff-modified::before { content: "ï­"; }
+
+.octicon-diff-removed::before { content: "ï¬"; }
+
+.octicon-diff-renamed::before { content: "ï®"; }
+
+.octicon-ellipsis::before { content: "ï‚š"; }
+
+.octicon-eye::before { content: "ï"; }
+
+.octicon-eye-unwatch::before { content: "ï€"; }
+
+.octicon-eye-watch::before { content: "ï€"; }
+
+.octicon-file-add::before { content: "ï‚†"; }
+
+.octicon-file-binary::before { content: "ï‚”"; }
+
+.octicon-file-code::before { content: "ï€"; }
+
+.octicon-file-directory::before { content: "ï€–"; }
+
+.octicon-file-directory-create::before { content: "ï‚•"; }
+
+.octicon-file-media::before { content: "ï€’"; }
+
+.octicon-file-pdf::before { content: "ï€”"; }
+
+.octicon-file-submodule::before { content: "ï€—"; }
+
+.octicon-file-symlink-directory::before { content: "ï‚±"; }
+
+.octicon-file-symlink-file::before { content: "ï‚°"; }
+
+.octicon-file-text::before { content: "ï€‘"; }
+
+.octicon-file-zip::before { content: "ï€“"; }
+
+.octicon-flame::before { content: "ïƒ’"; }
+
+.octicon-fold::before { content: "ïƒŒ"; }
+
+.octicon-gear::before { content: "ï€¯"; }
+
+.octicon-gift::before { content: "ï‚"; }
+
+.octicon-gist::before { content: "ï€"; }
+
+.octicon-gist-fork::before { content: "ï¹"; }
+
+.octicon-gist-new::before { content: "ïº"; }
+
+.octicon-gist-private::before { content: "ï€"; }
+
+.octicon-gist-secret::before { content: "ï‚Œ"; }
+
+.octicon-git-branch::before { content: "ï€ "; }
+
+.octicon-git-branch-create::before { content: "ï‚˜"; }
+
+.octicon-git-branch-delete::before { content: "ï‚›"; }
+
+.octicon-git-commit::before { content: "ï€Ÿ"; }
+
+.octicon-git-compare::before { content: "ï‚¬"; }
+
+.octicon-git-fork-private::before { content: "ï€¡"; }
+
+.octicon-git-merge::before { content: "ï€£"; }
+
+.octicon-git-pull-request::before { content: "ï€‰"; }
+
+.octicon-git-pull-request-abandoned::before { content: "ï‚"; }
+
+.octicon-globe::before { content: "ï‚¶"; }
+
+.octicon-graph::before { content: "ïƒ"; }
+
+.octicon-heart::before { content: "â™¥"; }
+
+.octicon-history::before { content: "ï¾"; }
+
+.octicon-home::before { content: "ï‚"; }
+
+.octicon-horizontal-rule::before { content: "ï°"; }
+
+.octicon-hourglass::before { content: "ï‚"; }
+
+.octicon-hubot::before { content: "ï‚"; }
+
+.octicon-inbox::before { content: "ïƒ"; }
+
+.octicon-info::before { content: "ï™"; }
+
+.octicon-issue-closed::before { content: "ï€¨"; }
+
+.octicon-issue-opened::before { content: "ï€¦"; }
+
+.octicon-issue-reopened::before { content: "ï€§"; }
+
+.octicon-jersey::before { content: "ï€™"; }
+
+.octicon-jump-down::before { content: "ï²"; }
+
+.octicon-jump-left::before { content: "ï‚¥"; }
+
+.octicon-jump-right::before { content: "ï‚¦"; }
+
+.octicon-jump-up::before { content: "ï³"; }
+
+.octicon-key::before { content: "ï‰"; }
+
+.octicon-keyboard::before { content: "ï€"; }
+
+.octicon-light-bulb::before { content: "ï€€"; }
+
+.octicon-link::before { content: "ïœ"; }
+
+.octicon-link-external::before { content: "ï¿"; }
+
+.octicon-list-ordered::before { content: "ï¢"; }
+
+.octicon-list-unordered::before { content: "ï¡"; }
+
+.octicon-location::before { content: "ï "; }
+
+.octicon-lock::before { content: "ïª"; }
+
+.octicon-log-in::before { content: "ï€¶"; }
+
+.octicon-log-out::before { content: "ï€²"; }
+
+.octicon-logo-github::before { content: "ï‚’"; }
+
+.octicon-mail::before { content: "ï€»"; }
+
+.octicon-mail-read::before { content: "ï€¼"; }
+
+.octicon-mail-reply::before { content: "ï‘"; }
+
+.octicon-mark-facebook::before { content: "ïƒ"; }
+
+.octicon-mark-github::before { content: "ï€Š"; }
+
+.octicon-mark-google::before { content: "ïƒ"; }
+
+.octicon-mark-twitter::before { content: "ï‚®"; }
+
+.octicon-markdown::before { content: "ïƒ‰"; }
+
+.octicon-megaphone::before { content: "ï·"; }
+
+.octicon-mention::before { content: "ï‚¾"; }
+
+.octicon-microscope::before { content: "ï‚‰"; }
+
+.octicon-milestone::before { content: "ïµ"; }
+
+.octicon-mirror-private::before { content: "ï€¥"; }
+
+.octicon-mirror-public::before { content: "ï€¤"; }
+
+.octicon-move-down::before { content: "ï‚¨"; }
+
+.octicon-move-left::before { content: "ï´"; }
+
+.octicon-move-right::before { content: "ï‚©"; }
+
+.octicon-move-up::before { content: "ï‚§"; }
+
+.octicon-mute::before { content: "ï‚€"; }
+
+.octicon-mute-video::before { content: "ï‚¸"; }
+
+.octicon-no-newline::before { content: "ï‚œ"; }
+
+.octicon-octoface::before { content: "ï€ˆ"; }
+
+.octicon-organization::before { content: "ï€·"; }
+
+.octicon-package::before { content: "ïƒ„"; }
+
+.octicon-paintcan::before { content: "ïƒ‘"; }
+
+.octicon-pencil::before { content: "ï˜"; }
+
+.octicon-person::before { content: "ï€˜"; }
+
+.octicon-person-add::before { content: "ï€š"; }
+
+.octicon-person-follow::before { content: "ï€œ"; }
+
+.octicon-person-remove::before { content: "ï€›"; }
+
+.octicon-pin::before { content: "ï"; }
+
+.octicon-playback-fast-forward::before { content: "ï‚½"; }
+
+.octicon-playback-pause::before { content: "ï‚»"; }
+
+.octicon-playback-play::before { content: "ï‚¿"; }
+
+.octicon-playback-rewind::before { content: "ï‚¼"; }
+
+.octicon-plug::before { content: "ïƒ”"; }
+
+.octicon-plus::before { content: "ï"; }
+
+.octicon-podium::before { content: "ï‚¯"; }
+
+.octicon-primitive-dot::before { content: "ï’"; }
+
+.octicon-primitive-square::before { content: "ï“"; }
+
+.octicon-pulse::before { content: "ï‚…"; }
+
+.octicon-puzzle::before { content: "ïƒ€"; }
+
+.octicon-question::before { content: "ï€¬"; }
+
+.octicon-quote::before { content: "ï£"; }
+
+.octicon-radio-tower::before { content: "ï€°"; }
+
+.octicon-remove-close::before { content: "ï"; }
+
+.octicon-repo::before { content: "ï€"; }
+
+.octicon-repo-clone::before { content: "ïŒ"; }
+
+.octicon-repo-create::before { content: "ï€ƒ"; }
+
+.octicon-repo-delete::before { content: "ï€„"; }
+
+.octicon-repo-force-push::before { content: "ïŠ"; }
+
+.octicon-repo-forked::before { content: "ï€‚"; }
+
+.octicon-repo-pull::before { content: "ï€†"; }
+
+.octicon-repo-push::before { content: "ï€…"; }
+
+.octicon-repo-sync::before { content: "ï‹"; }
+
+.octicon-rocket::before { content: "ï€³"; }
+
+.octicon-rss::before { content: "ï€´"; }
+
+.octicon-ruby::before { content: "ï‡"; }
+
+.octicon-screen-full::before { content: "ï¦"; }
+
+.octicon-screen-normal::before { content: "ï§"; }
+
+.octicon-search::before { content: "ï€®"; }
+
+.octicon-search-save::before { content: "ïƒ‹"; }
+
+.octicon-server::before { content: "ï‚—"; }
+
+.octicon-settings::before { content: "ï¼"; }
+
+.octicon-split::before { content: "ïƒ†"; }
+
+.octicon-squirrel::before { content: "ï‚²"; }
+
+.octicon-star::before { content: "ï€ª"; }
+
+.octicon-star-add::before { content: "ï‚‚"; }
+
+.octicon-star-delete::before { content: "ï‚ƒ"; }
+
+.octicon-steps::before { content: "ïƒ‡"; }
+
+.octicon-stop::before { content: "ï‚"; }
+
+.octicon-sync::before { content: "ï‚‡"; }
+
+.octicon-tag::before { content: "ï€•"; }
+
+.octicon-tag-add::before { content: "ï”"; }
+
+.octicon-tag-remove::before { content: "ï•"; }
+
+.octicon-telescope::before { content: "ï‚ˆ"; }
+
+.octicon-terminal::before { content: "ïƒˆ"; }
+
+.octicon-three-bars::before { content: "ï"; }
+
+.octicon-tools::before { content: "ï€±"; }
+
+.octicon-trashcan::before { content: "ïƒ"; }
+
+.octicon-triangle-down::before { content: "ï›"; }
+
+.octicon-triangle-left::before { content: "ï„"; }
+
+.octicon-triangle-right::before { content: "ïš"; }
+
+.octicon-triangle-up::before { content: "ï‚ª"; }
+
+.octicon-unfold::before { content: "ï€¹"; }
+
+.octicon-unmute::before { content: "ï‚º"; }
+
+.octicon-unmute-video::before { content: "ï‚¹"; }
+
+.octicon-versions::before { content: "ï¤"; }
+
+.octicon-x::before { content: "ï‚"; }
+
+.octicon-zap::before { content: "âš¡"; }
+
+@media (max-width: 600px) {
+  .wrapper { padding-left: 15px; padding-right: 15px; }
+  .content-push { margin-top: 30px; }
+  .post { margin-bottom: 15px; }
+  .post .post-name { font-size: 32px; font-weight: 500; }
+  .feedback { margin-top: 15px; }
+  .pagination { text-align: center; }
+  .pagination-archive { float: none; white-space: nowrap; margin: 0px 15px; }
+  .archive ul { display: table; }
+  .archive li { display: table-row; }
+  .archive li > time, .archive li > a { display: table-cell; }
+  .archive h3 { text-align: left; width: auto; }
+  .archive time { width: auto; white-space: nowrap; padding-right: 15px; }
+}
+
+@media (max-width: 700px) {
+  .top-bar { height: auto; padding: 15px 10px; }
+  .top-bar > .wrapper { width: 100%; text-align: center; padding-left: 5px; padding-right: 5px; }
+  .top-bar .navigation { vertical-align: middle; padding-bottom: 0px; }
+  .top-bar .top-bar-right { display: none; }
+  .footer { height: auto; padding: 20px 10px; }
+  .footer > .wrapper { width: 100%; text-align: center; }
+  .footer .footer-left, .footer .footer-right { float: none; }
+  .footer .footer-right { margin-top: 15px; }
+}
+------MultipartBoundary--dWKBTnLHgtxTjluxnVlswvMCTGAncUv1NjwNkbYRig----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://blog.atom.io/img/logo-small@2x.png
+
+‰PNG
+
+   IHDR   ä   0   øÖ´   tEXtSoftware Adobe ImageReadyqÉe<  siTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c021 79.154911, 2013/10/29-11:47:16        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:a8d3aa16-2427-44a5-be5e-6ec46692352c" xmpMM:DocumentID="xmp.did:089101FDCFE111E3BF6F98F087487AC1" xmpMM:InstanceID="xmp.iid:089101FCCFE111E3BF6F98F087487AC1" xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:a8d3aa16-2427-44a5-be5e-6ec46692352c" stRef:documentID="xmp.did:a8d3aa16-2427-44a5-be5e-6ec46692352c"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>Pk‘  ‹IDATxÚì]ØUc^ÿ_R!’k#š„q—¢™2£0Ê}òëf„aÈŒÈtÁ‘BÉŒÛÌ¸Œaä/qK¹ŒÛB4I‘Pıó½Ïy÷Ó:ëì}ÎŞç?{ÿÿ9í÷yÖóìÛÙßŞßşÖ·Öz¿õ}§jÙ’…R$qr“.Nš:™ïä1'S¼+Åc#':Y.)R¬g¨.â7UN~ïä/N~ì¤­“-œìëä
+'o;™Ìãaqˆ“Ûœ,pò•“eN–:ë¤]ú™R¬/¨*ÂBÂ*Şâº%NN§ÕBw'£ì—çšôròzú¹R¤
+™–N>rÒšû«Lsò5•k7s}•òNs|3'ãœ²Üwè“~²©Ëº?UÊüÒÉ 'ç:éääH'o÷ö8sı¼â£ŒkÌr2ÊÉc;:é—~®©Bf£‡Ú^éäsşoNöv2
+ù€:ßßI­“íŒ"Nq²«“nN.wr=·?W×—~®ŠÃ–N¾çd']tpÒ,UÈğØ]m¿D¥´€[y‘“XÁ»ú+n7W×¾ïäpºµóÍ}–QÁ=ìÕØİ'×:ùL2äÔ©1•òìCvvq
+B“CKüì;8îäqÉvàŞb[š+ëH½W%CötÒ$¡ï·‹“{<Í6™àUÎpòG¥¨1äû¬TànZ¼0o¨9ş°““¬Èó[°¶Wš{5VÀuŸ¬öWÓ[x­Äå<!v;	ÌqòƒÜç@vÈ=‹0‹$Ã¶OtòeŒïŠin¯â3Ï‹¹~á<«¼‚¹Q+§¥Ú[9c}”ÇzPFñ!q6hÄÆ¥æÆf/¡¬&	¾W};À6N¦³Ñ!Å³µw2†ÜDïßuµİœ§yŒåa¼}ªqÑ»6x“•¦ÁzÅÕş'ƒéDí ¾uò]#UÈŞty,Nt2ÒÉ%,k]«1¿ÓóíŠ±ŠàüÆ‘Ñ^¦ZH‹„ö´­“ïK†ø³Ê ŞáAÉŒWÿ‚í!NtfRÓı1ÜgG%ª¢*ärÆ…@ë×‚yıµùgJîH>tPÛÿmÄîê°€ã¨ß!%ş¨sI„„E]‰­^íä>¥šOïh:cí|Ö£7ënosî,';òüW1¿Ç`†VO•ø¾?qr~)Hÿ©í|™8`co4âìˆÊ($†<ü§‘*#ØàÔşlãÎ£ÚLÖNËØÜxVÃØ‘ÜT@½ë§1~Åp×§æ<bèûpß«Øf7/á=‘Õ6)¨cŒª:GµSÀ5»ğƒ41æyRÿ¶ÚşG™XGÄ’w¨ıƒzÃ
+ÄN´ŒÍŒëûC'7H†èŠ‚:ZS0ìÏ›sˆI¯OàÃŞRÂûıAò¤ƒFeY‡°b=ÜÂŞš¿``9–±‡\DYHë‡lœ7MœØ‚ù*ôšFÖ 1ôºêíşÅÆ‡úxOÅÙ‹ÙX¿n€gLÊeEç>ÓÉÁ¦ïQ¢íêQÉŠ©£û÷÷êi•±òıIôÔ$›‰·e„RÈ-Ø!Ÿô0Şqá[6ğœ<Ã¼¨[„É¬dÇJ&é¸K²Ç"ÏbïX©
+‰÷›h:ß¥´9È›:yQ2I$:”ôM‰ë	qÿ8µ$•=i@Šõ@bµRÇ†¨ÕÌQr¸$Æct]şİˆ”qÉŒËzîhùÎêÃ¢‘¼¢ ¬ÚÚ
+TÈô´+Îà¶ÊBbÄ³’Íòƒ@¼µÄõxR²³Ófr?ª§†ğ­ÖxO1^[H!ÑËÿVr)Y?¬¡’Àôîg$	äÍolÊàníV’¡±·0ƒ*ÇÉ=äşi\oâÇ>¤\¬#Õ~'U B2Ê7‡í!®Îç&—Ã5îèó®õ­'´ÏW%›”QDì
+^a”ÚGØÖ…Ş_]B¶fœÖ'à¦_Ëº¬‚Cxl-{Å)ôå=\-™1È0hCØ•nNgÉÏ !&»–1ì· Œ­i½¡ŸøöYº±gôğß¯Ò©oû¸îq É¢f¦®gÅPO}éé°j	ŸÅc³q€$Ãç”ë±¬[2f³Êø­ÑÑ´d?2ŠVÍ@W+#|ü«"TÄR’!ézte„z³dæCZlMÿ~I”¤1P²ÇaÇt3©„PY¥`G£Œ/~$æ2?ññ4~SY÷R<@±¦J¸,’›3E)£o¬ù­’ĞÓ$“·z2]¯U<÷M®‡FO—èôvkº¢w³Ììa/ kÛ$É*ó»Nlô5	6@Tîã~ä#kF›ıa¦=Íş_%6ü>³hŒe'™d{{ĞC+„ëLè«>8ß Œ'Ifr±(÷=ù…tıâÆ‡òÄU–xÙ.,²Ù¯‘Ì€ÅHZÇS$›öÜb¸"§±7oâGÄ¦Èş¸<¡ØÏ°âùòzÑ@ßRû˜Sº{)äfVBåÖwoO	—ÎY–“#Ğå¦Ç›½9U
+äoWÓŸõ°’…Ì)ğ€Ó|!¦ú#† ø2'?§â½F<(®éîó‘uìXÃ ŞºEHÓ;&æF€çnâê	~ƒeŒ¹ÇĞ
+RH›Æ—ÔR+Ÿ«…‘€1–÷”ùÖUt?ıHI¿lXÔÙ…
+©–uÓ© °†IQ›ÉØOLa™Ï;$7çuZAı°“MïSh–ÄGT¾ËL‹±—ÆÒÚºİîS~¸›q‡S¤rï²ãÒ&Xöû>ÜBœÀ
+zE$Åø·Ølœ%;¯;¯B~ib²0ù ´Û˜cv&F—ÚØOç©â%ŸPûÇ„èíêèO0C÷?ÈPgßòw |~gâĞ‹*D!71û+,Û–Õ2æòVÑíÔŞ	’ ×VOûŠğwaRçˆî2X½ÒçXT²Â*şXó\g…¼Ï5f¿sŒ±R7µæ-JÖÆétrş ŸÆ\	hÒ€e'A&½ìcín¢ÙÉ'„A'şNØ›WÓä~aDÅ†¿Á8Z/Ÿãˆ=õ2™¡ñ®kü„qÎé~¶õéÅâÀpc¯‹øû/Œ{Ó:B§Ó˜a	­V	–½qg‰`Îÿi¼„;)úı‘ˆÙJÕ$JÎ51hŞyŠWc¦õ±5ÎÜ9k+iê|\ĞIFÑzxşV’;ä0;†€,Çª}¤ò³4ÇÓaÔHù/êdç©îœ`Ù6¬Y˜P¹°ÄıM ïé`S/%bö—€ÁÌÂ^kÜW,Ft:†!< J¿VíãœNüÅ€ºÁWO+Zğ<ÓÛÑ¯€‰$tÍØ‚	‹ƒå.ÙSÕFyŸO${Æ H¾e®ÖÓIj1²M%{m¹øÓÅ…ù<ş]GeŒ<©^72¸©`—˜kôò‹ç7rœ‰ápîjŸ¿„¦¦€?;Ã;ÖuF¦V£{V²]?e%”m%w¹YRüjnƒÌ½À(W•±B¾hö{$Tî¡¦ı>× ï>‰FÉâV)2[ÉNPFCG²fVÓbNUÊvšºö5Z:B3ÕqŒ7Ög¥²i&FĞø*Ã¦ÀëÄPéÈjãGÅ0Ê‘e¬ÖÛ9"¡8Ò.xõx½ÿ c	ß–zdcù­°”–°ƒd¯«ÚÓ(·«íKÔ¶7Xl¯ÿ¨q
+Øö\tq,·èuç%ğQË9¬£Ü(&OE„˜NhA{y Ş	Cµ—È_ôÿõŠ‹VHHêÖ™Ç«íïŒ%C¬¨f’Ll1X*Ù™ô‡©í»”å~q$ÜÉÏbªlR›'ğQ»KnöR¹ ßEcDÌVr¸d3¬Xˆª!'²#|Ú—áÔõ¹Qu„ë´uzÚG	ğ4ƒˆqÅ­Š|®'Õv'u$#7¶cÛb¬d¸è6 -)d¸)¯œÓé0§³´¶öáJğCÌ±ÑR!«{åú³Ï56—µ‰¢b0ÃìëÉÏ‹}ˆ§8€XX³xJi×W…Ë¯ist0»”i;‚W3ÆC*e©§Dy‹ë©OÑC[¯²›ÙZ§r´‰å—âV›¶“?»6@İ‹¹FÖÎdó-ÊÙJbhë]Ã%Ü#¥KeÛi‚zî%’-j¤‚V!÷UÛ`”‚†.ãgçC‚º0ÖãwJ¸^zIöxZ-É‹RÃ.xšäæ—@dô“ì<OX4$QœTÏ{oÉûeb×3Kìµ”Bê¯¸S·tZÙVìÙ¢f¤èà¸CÂõb-Õ¸˜ÊYHWØ†W.,ãö„1É3$;;¥-%ˆŸ¶EÜ®<:³ÿH…•+î—
+CX…ÔîÍ×# Eí#ÿulÄg{Omo“`À2ê—‚öpŒåÙzÁXëÆeÜ¦À¾clÎ&zƒG’Èø!rCHf(J×Ş§}’
+DØ¹ƒzNc˜!°­H	êÑßçÑºNŒci×')Œ0ûÈ?séÆçHJx‹_µ¡Ûc·«It%§ÑİÔßq0e1½©ùtws¶cx‚Ùÿ´+Œ‘ß!Š0
+ÙÒXÒ°Ò¾Å˜èY—$p3ñé!~¯c«æ	ÕŞµé|&'P.#Í\÷I!W'Ø¶0tÕ…îş‰>ç·–ÜD|@§5Pê9Î×Q§ô£.ŒËŠÙzrå¦®GÆûúü ¤õ¬ş&Œ%h•?O¨rÖR¢Ğz9¥\b¿¬„÷Ö¡Ãì„Ûbv.²Ã)f¾"LıA1+ãÛqC“…sÂş·òó:ª¯g€aå³©ñ¨|Œ«-`/©É
+4zÌÌ÷oX¨ÔÎêˆ=ø¬˜Å0Rê¿D}X`rë5,å~\¢û‚»˜î†&–HÃ¡-=d_!İqÉĞ¼ˆÓÓlI­Vö}·1ù„Êİ•å¢.«ˆ	ÎàöZV¨·ºX{àÈ°if¨ô¹TĞ‰’;Ó–ôRÉ]Ó´){×-¸?…qUŠÊB3z\­G®øÿó±Q#,Ëz»¬£²ñ$<Ï8Áû(£Œ¸ö*£·.Kc{Ki÷WÊÔ¦m·"øS;‹×we¢üı7§ Ì§%œáW-âU’;Ù9˜ÆÊÿdEä ~Ü^²—I‘b½WHPÖXìøè€ó^¬xkˆ¸«7İà0ÿ,\ÌŸ›¤HQñ
+é¡egZ-XÄÇH¼DY?¤=­¯ÏÄ8†NÖ¤Ÿ*EªÉ iy©ä»ÒºÎ£¥½Gê÷c)R”ş/À hÆ´„è    IEND®B`‚
+------MultipartBoundary--dWKBTnLHgtxTjluxnVlswvMCTGAncUv1NjwNkbYRig------
